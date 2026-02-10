@@ -1,0 +1,26 @@
+
+===== STUDENT PERFORMANCE REPORT =====
+
+Total Students: 20
+
+Subject Averages:
+Maths: 75.1
+Science: 78.95
+English: 77.3
+
+Class Overall Average: 77.12
+
+Topper Student: Isha (Total Marks: 293)
+
+Gender Distribution:
+Gender
+M    10
+F    10
+
+===== INSIGHTS =====
+1. Science has the highest average marks.
+2. The class performance is above 70% overall.
+3. Top students scored above 90 in most subjects.
+4. Gender distribution is balanced.
+
+Charts saved inside 'visualizations/' folder.
