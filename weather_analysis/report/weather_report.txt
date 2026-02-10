@@ -1,0 +1,21 @@
+
+======== Weather Data Analysis Report ========
+
+Total Records: 7
+
+Average Temperature: 17.86 °C
+Maximum Temperature: 22 °C
+Minimum Temperature: 14 °C
+
+Total Rainfall: 3 mm
+Average Humidity: 56.71 %
+
+Insights:
+- Temperature shows daily fluctuations across the week
+- Rainfall occurred only on a few days
+- Weather mostly dry with moderate humidity
+- Suitable for trend-based forecasting
+
+Charts Generated:
+- temperature_trend.png
+- rainfall_bar.png
